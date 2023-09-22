@@ -1,8 +1,3 @@
-const heading=React.createElement("h1",
-    {
-    id: "title",
+#container{
+    background-color: red;
 }
-
-,
-"Heading 1"
-);
