@@ -1,0 +1,35 @@
+node_modules/
+dist/
+
+*.class
+
+*.py[cod]
+
+*.log
+
+*.jar
+
+.idea/
+
+TEST*.xml
+
+
+
+#Genenrate by Windows
+Thumbs.db
+
+
+#applications
+*.app
+*.exe
+*.war
+
+#large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+.parcel-cache
